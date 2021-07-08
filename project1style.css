@@ -1,0 +1,88 @@
+.brand{
+    font-size: 60px;
+    text-align: center;
+    font-weight:normal ;
+    font-family:cursive;
+    color:rgb(7, 7, 7);
+}
+.story-quater{
+    border: 1px solid black;
+    text-align:center;
+    width: 140%;
+    line-height: 1.5;
+    
+
+}
+.story-quater1{
+    border: 1px black;
+    text-align: center;
+}
+.story-half{
+    border: 1px solid black;
+    text-align:center;
+    
+    
+}
+.story-title{
+    font-weight: normal;
+    font-style: italic;
+    font-size: 30px;
+}
+.dog-is-life{
+    font-style: italic;
+    font-weight: normal;
+    font-size: 30px;
+}
+.row{
+    display: flex;
+    align-items: stretch;
+    width: 100%;
+    border-top: 8px;
+    border-top: 3px;
+
+}
+.second-row{
+    display: flex;
+    align-items: stretch;
+}
+.story-of{
+    width: 25.7%;
+    border: 1px solid black;
+    line-height: 1.5;
+}
+.quater-list{
+    width: 72.3%; 
+     display: flex;
+    flex-direction: column;
+    margin: 0%;
+    padding: 0;
+    list-style: none;  
+   }
+.nav-item{
+    width: 100%;
+    flex: 1;
+    align-items: center;
+    padding: 10px;
+    font-size: 30px;
+    color: rgb(53, 47, 47);
+}
+.nav-item a {
+    text-decoration: none;
+    color: rgb(53, 47, 47);
+
+}
+.nav-item a:hover {
+    text-decoration: underline;}
+
+.nav-item:nth-child(1) {background-color: rgb(121, 96, 33);
+max-width: ;
+}
+.nav-item:nth-child(2) {background-color: rgb(71, 124, 139);
+max-width: ;
+}
+.nav-item:nth-child(3) {background-color: rgb(223, 157, 135);
+max-width: ;}
+.nav-item:nth-child(4) {background-color: rgb(206, 92, 149);
+max-width: ;}
+.nav-item:nth-child(5) {background-color: rgb(138, 92, 172);
+max-width: ;}
